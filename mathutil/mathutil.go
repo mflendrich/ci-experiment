@@ -21,7 +21,7 @@ func Multiply(a, b int) int {
 	return a * b
 }
 
-// Divide returns the quotient of two float64 numbers.
+// Divide returns the quotient of two float64 numbers (a / b).
 // Returns an error if the divisor is zero.
 func Divide(a, b float64) (float64, error) {
 	if b == 0 {
