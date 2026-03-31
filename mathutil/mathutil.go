@@ -11,7 +11,7 @@ func Add(a, b int) int {
 	return a + b
 }
 
-// Subtract returns the difference of two integers.
+// Subtract returns the difference of two integers (a - b).
 func Subtract(a, b int) int {
 	return a - b
 }
