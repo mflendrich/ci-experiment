@@ -16,7 +16,7 @@ func Subtract(a, b int) int {
 	return a - b
 }
 
-// Multiply returns the product of two integers.
+// Multiply returns the product of two integers (a * b).
 func Multiply(a, b int) int {
 	return a * b
 }
