@@ -6,6 +6,7 @@ import (
 )
 
 // Add returns the sum of two integers.
+// It handles both positive and negative values.
 func Add(a, b int) int {
 	return a + b
 }
